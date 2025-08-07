@@ -47,5 +47,4 @@ Release Date: 07/08/25
 Approver: Managing Director
 ```
 
-Last updates 07.08.25 
-First Publish 17.0.4.25
+2025 ziton. systems - All assets are still our property, missuse will lead to harsh punishment
