@@ -40,8 +40,12 @@ If legacy products are abused they will be taken down. Please be considerate and
 ```
 Product Code: 01LP-07082025
 ```
+```
 Release Date: 07/08/25
+```
+```
 Approver: Managing Director
+```
 
 Last updates 07.08.25
 First Publish 17.0.4.25
