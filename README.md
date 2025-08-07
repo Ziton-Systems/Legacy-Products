@@ -37,10 +37,10 @@ If you find a product missing and you would like it added please do suggest it a
 
 **Please remeber these are still our products! We have chosen to give them away with NO SUPPORT so you can use open source and editable products
 If legacy products are abused they will be taken down. Please be considerate and use them approiately, so we are not forced to take them away for everyone**
-
-<Product Code: 01LP-07082025>
-<Release Date: 07/08/25>
-<Approver: Managing Director>
-
-  Last updates 17.04.25
-  First Publish 17.0.4.25
+```
+Product Code: 01LP-07082025
+Release Date: 07/08/25
+Approver: Managing Director
+```
+Last updates 07.08.25
+First Publish 17.0.4.25
